@@ -12,6 +12,8 @@ public class Wishcontroller {
 	public void test2(){
 		System.out.println("The is a method ");
 	}
-	
+	public void test5(){
+		System.out.println("The is a method ");
+	}
 
 }
