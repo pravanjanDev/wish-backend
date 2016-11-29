@@ -15,5 +15,10 @@ public class Wishcontroller {
 	public void test5(){
 		System.out.println("The is a method ");
 	}
+	
+	public void test6(){
+		System.out.println("The is a method ");
+	}
+
 
 }
